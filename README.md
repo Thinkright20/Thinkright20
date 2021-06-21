@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am @Thinkright20man! 👋
 
 <!--
 **Thinkright20/Thinkright20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
