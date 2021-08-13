@@ -1,4 +1,4 @@
-### Hi there! I am @Thinkright20man! 👋
+### Hi there! I am @Thinkright20! 👋
 I am here so I can do some code with discord.js. Mainly for bot creation.
 
 <!--
