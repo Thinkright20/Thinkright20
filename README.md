@@ -1,5 +1,5 @@
 ### Hi there! I am @Thinkright20! 👋
-I am here so I can do some code with discord.js. Mainly for bot creation.
+
 
 <!--
 **Thinkright20/Thinkright20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
