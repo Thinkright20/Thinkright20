@@ -1,4 +1,4 @@
-### Hi there! I am @Thinkright20! 👋
+### Hi. I am @Thinkright20! 👋
 
 
 <!--
