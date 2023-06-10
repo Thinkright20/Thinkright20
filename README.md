@@ -13,7 +13,7 @@
 
 </p>
 
-## Hi. I am @Thinkright20! 👋
+## What I'm Doing
 
 - 🔭 I’m currently working on ChatCool (Discord Bot)
 - 🌱 I’m currently learning Node.js
