@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=fff53a&style=for-the-badge&labelColor=dfd624&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=fff53a&style=for-the-badge&labelColor=ada620&logo=star"/></a>
 
 ## Hi. I am @Thinkright20! 👋
 
