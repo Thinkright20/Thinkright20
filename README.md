@@ -9,8 +9,7 @@
 <p align="center">
 <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=fff10a&style=for-the-badge&labelColor=fff53a&logo=star"/></a>
-<a href="https://github.com/thinkright20"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=#dfd624&style=for-the-badge&labelColor=fff53a&logo=star"/></a>
 
 ## Hi. I am @Thinkright20! 👋
 
