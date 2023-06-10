@@ -8,6 +8,8 @@ Support ChatCool on Kofi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
 
+### GitHub Stats:
+
 <p align="center">
   <a href="https://github.com/Thinkright20">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
