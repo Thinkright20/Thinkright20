@@ -39,7 +39,7 @@ Support ChatCool (discord bot) on Kofi:
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 <a href="https://github.com/Thinkright20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkright20&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkright20&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 </p>
 
