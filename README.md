@@ -1,10 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Kabir</a> - aka Fire Bird </h3>
+<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Thinkright20</a></h3>
 
 <p align="center">
-<a href="https://github.com/kabirsingh2004"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kabirsingh2004?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-<a href="https://github.com/kabirsingh2004"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+<a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+<a href="https://github.com/thinkright20"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 
 ## Hi. I am @Thinkright20! 👋
 
