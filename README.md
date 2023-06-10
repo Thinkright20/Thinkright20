@@ -8,6 +8,15 @@ Support ChatCool on Kofi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
 
+## Languages I Know:
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=bootstrap,cloudflare,css,discord,bots,express,heroku,github,html,js,nodejs,mongodb,py,ts,vscode"> </a> </p>
+
+# My Stats
+<p align="center">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" />
+</p>
+
 ## GitHub Stats:
 
 <p align="center">
