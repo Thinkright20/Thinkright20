@@ -12,12 +12,12 @@ Support ChatCool on Kofi:
 
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=cloudflare,css,discord,bots,express,github,html,js,nodejs,mongodb,py,vscode"> </a> </p>
 
-## My Stats
+## My Stats:
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Thinkright20&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" />
+<img height="250px" src="https://github-readme-stats.vercel.app/api?username=Thinkright20&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" />
 </p>
 
-## GitHub Stats:
+## Activity On GitHub:
 
 <p align="center">
   <a href="https://github.com/Thinkright20">      
