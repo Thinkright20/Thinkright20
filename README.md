@@ -26,7 +26,7 @@ Support ChatCool (discord bot) on Kofi:
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=cloudflare,css,discord,bots,express,github,html,js,nodejs,mongodb,py,vscode"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=cloudflare,css,discord,bots,express,github,html,js,nodejs,mongodb,vscode"> </a> </p>
 
 ## My Stats:
 <p align="center">
