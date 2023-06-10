@@ -1,4 +1,4 @@
-### Hi. I am @Thinkright20! 👋
+## Hi. I am @Thinkright20! 👋
 
 - 🔭 I’m currently working on ChatCool (Discord Bot)
 - 🌱 I’m currently learning Node.js
@@ -8,7 +8,7 @@ Support ChatCool on Kofi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
 
-### GitHub Stats:
+## GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/Thinkright20">      
