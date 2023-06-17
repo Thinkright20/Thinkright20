@@ -20,19 +20,18 @@
 
   <table>
     <tr>
-      <!-- <th>$10+/month</th> -->
+      <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- $10+/month -->
       <!-- <td>
         <div align="center">
-          <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="52" /></a>
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
           <br />
-          <a align="center" href="https://github.com/jesterb0206"><b>Bradley Jester</b></a>
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
         </b>
       </td> -->
-      <!-- $5+/month -->
+      <!-- Profile Views -->
       <td>
          <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
       </td>
