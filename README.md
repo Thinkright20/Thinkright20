@@ -39,9 +39,6 @@
     </tr>
   </table>
 
-  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-
-
 ## What I'm Doing
 
 - 🔭 I’m currently working on ChatCool (Bot)
