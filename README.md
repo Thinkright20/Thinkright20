@@ -52,9 +52,6 @@ Support ChatCool (discord bot) on Kofi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
 
- ## Profile Views
- ![](https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen)
-
 ## Languages I Know:
 
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=cloudflare,css,discord,bots,express,github,html,js,nodejs,mongodb,vscode"> </a> </p>
