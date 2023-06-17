@@ -41,8 +41,8 @@
 
 ## What I'm Doing
 
-- 🔭 I’m currently working on ChatCool (Bot)
-- 🌱 I’m currently learning Node.js
+- 🔭 Working on ChatCool (Bot)
+- 🌱 Learning Node.js & more
 - 📫 How to reach me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord), 
 
 Support ChatCool (discord bot) on Kofi:
