@@ -44,7 +44,7 @@
 - 🌱 Learning Node.js & more
 - 📫 How to reach me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord), 
 
-Support ChatCool (discord bot) on Kofi:
+Support ChatCool on KoFi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
 
