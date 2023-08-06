@@ -50,7 +50,7 @@ Support ChatCool on KoFi:
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=cloudflare,css,bots,express,github,html,js,nodejs,mongodb,vscode"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=css,bots,express,github,html,js,nodejs,mongodb,vscode"> </a> </p>
 
 ## My Stats:
 <p align="center">
