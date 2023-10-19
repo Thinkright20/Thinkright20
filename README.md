@@ -48,7 +48,7 @@ Support ChatCool on KoFi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
 
-## Languages I Know
+## Languages and Tools:
 
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
