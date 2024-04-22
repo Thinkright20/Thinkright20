@@ -39,10 +39,9 @@
   </table>
 
 ## Top Sponsors
-1. phuuthanh2003 ($12 per year)
-2. gmanasian23 ($10 one time)
+**1. phuuthanh2003 ($12 per year)**
 
-View my sponsorships/works:
+**2. gmanasian23 ($10 one time)**
 
    <a href="https://github.com/thinkright20/sponsors"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
 
