@@ -38,6 +38,10 @@
     </tr>
   </table>
 
+## Top Sponsors
+1. phuuthanh2003 ($12 per year)
+2. gmanasian23 ($10 one time)
+
 ## What I'm Doing
 
 - 🔭 Working on ChatCool (Bot)
