@@ -12,6 +12,7 @@
 <a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+
  </p>
  
 ## Profile Views
@@ -40,6 +41,9 @@
 ## Top Sponsors
 1. phuuthanh2003 ($12 per year)
 2. gmanasian23 ($10 one time)
+
+View my sponsorships/works:
+   <a href="https://github.com/thinkright20/sponsors"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
 
 ## What I'm Doing
 
