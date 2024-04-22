@@ -44,13 +44,9 @@
 
 ## What I'm Doing
 
-- 🔭 Working on ChatCool (Bot)
+- 🔭 Working on Bots/Roblox Development
 - 🌱 Learning Node.js & more
-- 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord), 
-
-Support ChatCool on KoFi:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
+- 📫 How to contact me: thinkright20 (Discord)
 
 ## Languages and Tools
 
