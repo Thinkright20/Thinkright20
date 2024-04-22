@@ -43,7 +43,7 @@
 
 **2. gmanasian23 ($10 one time)**
 
-   <a href="https://github.com/thinkright20/sponsors"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
+   <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
 
 ## What I'm Doing
 
