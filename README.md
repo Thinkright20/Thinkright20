@@ -1,17 +1,19 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Used%20by%20over%20100,000%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Used%20by%20over%20100,000%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=FF0000&vCenter=true&pause=1000&size=25" />
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/Thinkright20">Thinkright20</a></h3>
+
+
+
+<h3 align="center">Hey there, I'm <a href="https://github.com/Thinkright20">Thinkright20</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
   <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-white?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
+  <a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=FF5722&style=for-the-badge&labelColor=E64A19&logo=star"/></a>
+   <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?&style=for-the-badge&logo=github&label=Follow&color=236ad3"/></a>
 
  </p>
  
@@ -43,7 +45,7 @@
 
 **2. gmanasian23 ($10 one time)**
 
-   <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
+   <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FF0066?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
 ## What I'm Doing
 
