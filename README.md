@@ -47,7 +47,7 @@
 
 ## What I'm Doing
 
-- 🔭 Working on Bots/Roblox Development
+- 🔭 Working on Websites/Roblox Development
 - 🌱 Learning Node.js & more
 - 📫 How to contact me: thinkright20 (Discord)
 
